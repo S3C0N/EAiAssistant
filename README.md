@@ -1,1 +1,1 @@
-# Eu4AiAssistant
+# EAiAssistant
