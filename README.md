@@ -1,5 +1,2 @@
 # EAiAssistant
-So far created Gamestate parser but it has difficulty with encapsulating all cases. It seems the gamestate file doesnt always follow a pattern. 
-so I have created seperate dictionaries for unknown instances in file.
-this way i can maybe create a pattern that makes sense with the game that i was playing, to extract useful information from file
-This is so I can control the database the future AI will be pulling from when training
+Developed a parser to analyze and interpret game state files, addressing challenges posed by inconsistent patterns in the file structure. To handle unknown instances effectively, created separate dictionaries to categorize these cases. This iterative approach aims to identify meaningful patterns specific to gameplay scenarios, enabling accurate information extraction and ensuring precise control over the database used for future AI training.
